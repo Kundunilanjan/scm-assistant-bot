@@ -12,7 +12,7 @@ The chatbot uses uploaded documents as a knowledge base and answers user questio
 Add your deployed chatbot URL here:
 
 ```text
-https://your-chatbot-url](https://cloud.flowiseai.com/chatbot/ba9bef9c-97ea-405c-9e22-cb39cb86fa4d
+(https://cloud.flowiseai.com/chatbot/ba9bef9c-97ea-405c-9e22-cb39cb86fa4d)
 ```
 
 ---
