@@ -101,17 +101,9 @@ Chat Output
 
 # Questions and Answers
 
-## Question 1
+## Question 1 Screenshot
 
-### Question
-```text
-Add Question 1 Here
-```
-
-### Answer
-```text
-Paste chatbot answer verbatim here
-```
+![Question 1](screenshots/09_question1.png)
 
 ---
 
