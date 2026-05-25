@@ -51,7 +51,21 @@ https://github.com/Kundunilanjan/scm-assistant-bot
 
 # Document Store Configuration
 
-## Chunk Configuration
+## Chunk Configuration 1
+
+| Parameter | Value |
+|---|---|
+| Chunk Size | 500 |
+| Chunk Overlap | 50 |
+
+### Chunk Count Results
+
+| File Name | Chunk Count |
+|---|---|
+| supplier_performance_data.csv | 4000 |
+| SupplyChain_Governance_Policy_v3.2 1.pdf | 35 |
+
+## Chunk Configuration 2
 
 | Parameter | Value |
 |---|---|
@@ -62,8 +76,8 @@ https://github.com/Kundunilanjan/scm-assistant-bot
 
 | File Name | Chunk Count |
 |---|---|
-| supplier_performance_data | 2000 |
-| SupplyChain_Governance_Policy_v3.2 1 | 19 |
+| supplier_performance_data.csv | 2000 |
+| SupplyChain_Governance_Policy_v3.2 1.pdf | 19 |
 
 ---
 
