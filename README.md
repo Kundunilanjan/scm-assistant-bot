@@ -78,8 +78,8 @@ or
 
 | File Name | Chunk Count |
 |---|---|
-| File 1 | Add Count |
-| File 2 | Add Count |
+| supplier_performance_data | 2000 |
+| SupplyChain_Governance_Policy_v3.2 1 | 19 |
 
 ---
 
