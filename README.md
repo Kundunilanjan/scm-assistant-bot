@@ -103,8 +103,8 @@ Chat Output
 
 ## Question 1 Screenshot
 
-![Question 1](<img width="1202" height="870" alt="q1_question-answer-screenshot" src="https://github.com/user-attachments/assets/136faeb7-ebaf-469a-adb3-e578ee76fa9c" />
-)
+![Question 1](
+
 
 ---
 
