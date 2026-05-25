@@ -27,22 +27,22 @@ https://github.com/Kundunilanjan/scm-assistant-bot
 
 ---
 
-# Technologies Used
+# Technologies Used in Chatflow
 
 ## Flowise Platform
 - Flowise Cloud
 
-## LLM Used
-Example:
-- Groq Llama 3 70B
-or
-- Gemini 1.5 Flash
+## LLM Model Used
+- Groq LLM
+- Model: Llama 3 70B
 
 ## Embedding Model Used
-- sentence-transformers/all-MiniLM-L6-v2
+- HuggingFace Embeddings
+- Model: sentence-transformers/all-MiniLM-L6-v2
 
 ## Vector Database
-- ChromaDB
+- LangChain In-Memory Vector Store
+- Used for temporary vector embeddings and retrieval during chatbot execution
 
 ## Text Splitter
 - Recursive Character Text Splitter
