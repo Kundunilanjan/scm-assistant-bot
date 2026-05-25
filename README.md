@@ -109,25 +109,29 @@ Chat Output
 
 ---
 
-## Question 1 Screenshot
+## Question 2 Screenshot
+
+<img width="1130" height="754" alt="q2_question-answer" src="https://github.com/user-attachments/assets/419070dc-9db0-40a2-a134-145d76d81a3e" />
+<img width="1112" height="763" alt="Screenshot 2026-05-25 053726" src="https://github.com/user-attachments/assets/77b5519f-812d-408f-a949-878c7e85a651" />
+
+
+
+---
+
+## Question 3 Screenshot
+
+<img width="1113" height="329" alt="q3_question-answer-screenshot" src="https://github.com/user-attachments/assets/be009878-e9fd-4079-848c-10e649435b74" />
+
+
+---
+
+## Question 4 Screenshot
 
 ![Question 1](screenshots/09_question1.png)
 
 ---
 
-## Question 1 Screenshot
-
-![Question 1](screenshots/09_question1.png)
-
----
-
-## Question 1 Screenshot
-
-![Question 1](screenshots/09_question1.png)
-
----
-
-## Question 1 Screenshot
+## Question 5 Screenshot
 
 ![Question 1](screenshots/09_question1.png)
 
