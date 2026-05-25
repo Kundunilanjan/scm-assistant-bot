@@ -107,59 +107,27 @@ Chat Output
 
 ---
 
-## Question 2
+## Question 1 Screenshot
 
-### Question
-```text
-Add Question 2 Here
-```
-
-### Answer
-```text
-Paste chatbot answer verbatim here
-```
+![Question 1](screenshots/09_question1.png)
 
 ---
 
-## Question 3
+## Question 1 Screenshot
 
-### Question
-```text
-Add Question 3 Here
-```
-
-### Answer
-```text
-Paste chatbot answer verbatim here
-```
+![Question 1](screenshots/09_question1.png)
 
 ---
 
-## Question 4
+## Question 1 Screenshot
 
-### Question
-```text
-Add Question 4 Here
-```
-
-### Answer
-```text
-Paste chatbot answer verbatim here
-```
+![Question 1](screenshots/09_question1.png)
 
 ---
 
-## Question 5
+## Question 1 Screenshot
 
-### Question
-```text
-Add Question 5 Here
-```
-
-### Answer
-```text
-Paste chatbot answer verbatim here
-```
+![Question 1](screenshots/09_question1.png)
 
 ---
 
