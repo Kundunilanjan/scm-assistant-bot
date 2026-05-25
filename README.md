@@ -127,13 +127,15 @@ Chat Output
 
 ## Question 4 Screenshot
 
-![Question 1](screenshots/09_question1.png)
+<img width="1127" height="685" alt="q4_question-answer" src="https://github.com/user-attachments/assets/151bf070-7f69-477e-8cff-4efac5c99855" />
+
 
 ---
 
 ## Question 5 Screenshot
 
-![Question 1](screenshots/09_question1.png)
+<img width="1115" height="362" alt="q5_question-answer" src="https://github.com/user-attachments/assets/c1dfe61a-6d6e-411a-94e8-0ccbe98b4d4a" />
+
 
 ---
 
