@@ -51,23 +51,7 @@ or
 
 # Document Store Configuration
 
-## Chunk Configuration 1
-
-| Parameter | Value |
-|---|---|
-| Chunk Size | 500 |
-| Chunk Overlap | 50 |
-
-### Chunk Count Results
-
-| File Name | Chunk Count |
-|---|---|
-| File 1 | Add Count |
-| File 2 | Add Count |
-
----
-
-## Chunk Configuration 2
+## Chunk Configuration
 
 | Parameter | Value |
 |---|---|
