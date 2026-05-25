@@ -1,4 +1,4 @@
-# SCM Assistant Bot
+<img width="2862" height="1781" alt="chatflow_architecture" src="https://github.com/user-attachments/assets/1d19bc09-5b2a-4cb1-a278-e61653b97e77" /># SCM Assistant Bot
 
 ## Project Overview
 
@@ -69,17 +69,9 @@ https://github.com/Kundunilanjan/scm-assistant-bot
 
 # Chatflow Architecture
 
-```text
-Chat Input
-   ↓
-Conversational Retrieval QA Chain
-   ↓
-Document Store Retriever
-   ↓
-LLM
-   ↓
-Chat Output
-```
+<img width="2862" height="1781" alt="chatflow_architecture" src="https://github.com/user-attachments/assets/e2c84688-6ff0-4e01-b2cb-2accf8abc134" />
+
+
 
 ---
 
